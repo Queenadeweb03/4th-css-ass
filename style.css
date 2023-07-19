@@ -199,11 +199,12 @@ footer {
 
     .icon {
         width: 100%;
-        column-gap: 10px;
+        font-size: 15px;
+        column-gap: 5px;
         text-align: center;
         align-self: center;
         justify-self: center;
-        padding-right: 20%;
+        padding-right: 15%;
     }
     
     .icon2 {
